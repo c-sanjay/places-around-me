@@ -206,4 +206,4 @@ Run the django server and excute the HTML files
 ![Output](temple.png)
 
 ## Result:
-Write your result
+This program is successfully executed.
