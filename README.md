@@ -18,6 +18,7 @@ Run the django server and excute the HTML files
 
 ## Code:
 ### map.html code:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +35,7 @@ Run the django server and excute the HTML files
     </map>
 </body>
 </html>
-
+```
 ### shrinivasamahal.html code:
 ```html
 <html>
